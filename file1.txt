@@ -1,1 +1,2 @@
 this is relation fo fitst repository
+i want to edit this file in second repository.
